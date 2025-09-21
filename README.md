@@ -17,3 +17,6 @@ After Modifying the file there is a 2 stage process :
 To add the modified File :
 1. git add <file_name>
 2. git add .  -> this will add all modified files directly instead of adding one by one . 
+
+After adding the files to the local system , you have to commit the files to your local repo and then add them to the github software :
+   git push origin main
