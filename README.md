@@ -20,3 +20,9 @@ To add the modified File :
 
 After adding the files to the local system , you have to commit the files to your local repo and then add them to the github software :
    git push origin main
+
+FlowDown of Steps:
+1. Git Status ->
+2. Git Add .
+3. Git Commit -m "comment"
+4. Git push origin main
